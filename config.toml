@@ -1,0 +1,45 @@
+baseurl = "http://www.mirosa.org/"
+languageCode = "en-us"
+title = "Oriol Mirosa"
+disqusShortname = "oriolmirosa"
+pygmentsstyle = "friendly"
+[permalinks]
+  blog = "/blog/post/:year/:month/:title/"
+[taxonomies]
+   category = "categories"
+   blo = "blog"
+[params]
+	sidebartitle = "Oriol Mirosa"
+	sidebartagline = "University of Wisconsin-Milwaukee Sociology and Global Studies"
+[[menu.main]]
+    name = "Blog"
+    url = "/blog"
+    weight = 25
+[[menu.main]]
+    name = "Research"
+    url = "/research"
+    weight = 50
+[[menu.main]]
+    name = "Teaching"
+    url = "/teaching"
+    weight = 75
+[[menu.main]]
+    name = "CV"
+    url = "/files/cv.pdf"
+    weight = 100
+[[menu.social]]
+	pre = "<i class='fa fa-linkedin'></i>"
+    url = "http://www.linkedin.com/pub/oriol-mirosa/a2/238/377"
+    identifier = "linkedin"
+    weight = 50
+[[menu.social]]
+	pre = "<i class='fa fa-twitter'></i>"
+    url = "http://twitter.com/SocOfWater"
+    identifier = "twitter"
+    weight = 75
+[[menu.social]]
+	pre = "<i class='fa fa-facebook'></i>"
+    url = "http://facebook.com/oriolmirosa"
+    identifier = "facebook"
+    weight = 100
+

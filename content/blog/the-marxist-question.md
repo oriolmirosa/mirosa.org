@@ -1,0 +1,20 @@
++++
+date = "2014-11-20T23:30:53-06:00"
+title = "The Marxist Question"
+noread = true
+nopaging = true
+notoc = true
+categories = [
+  "Marxism",
+  "Sociology"]
+blog = ["post"]
++++
+Although things seem to have changed slightly since the beginning of the Great Recession (Lesser Depression?) in 2008, the term 'marxist' is still mostly used as a pejorative epithet (you only have to google 'obama marxist' for a collection of illustrative examples). The baggage of 20th century history that Marx has to carry is hard to ignore, no matter how much his followers insist that the communism that Marx envisioned had nothing to do with the atrocities that plagued Eastern Europe. It is questionable whether, as the late Polish philosopher Leszek Kolakowski claimed, Marx's ideas carried the seed of authoritarianism regardless of his original intentions. But what seems undeniable is that the popular perception of Marx is rarely based on his actual writings, which mostly remain the territory of academics and labor activists. Of course, this is neither a new a problem nor one that affects Marx exclusively. Yet his is a particularly regrettable case because reading Marx is still one of the most fruitful and illuminating projects that anyone willing to be challenged intellectually can undertake.
+
+This should not be taken as a blanket endorsement of Marx's ideas. In fact, I find it extremely frustrating that any allegiance to Marx has to be seen in absolute terms: either you are a marxist or you are not. Marx has given me countless hours of fascinating reading and conversation, and many of my views on capitalism and its shortcomings have been shaped by his writings. Yet I also have serious objections to some of his theories (for instance, I find his reliance on the labor theory of value very problematic), and I don't think that his thinking can be directly and uncritically applied to the realities of the early 21st century.
+
+As I am teaching Marx in my theory class these days I have been thinking about which of his insights I should particularly emphasize to my students. And I have decided that, more than a specific theory or idea, Marx's most powerful contribution to our thinking about society today is what I call 'the marxist question'. By this I mean the question that underpins Marx's study of capitalism as a mode of production, and which could be summarized as "where is capitalism going?"
+
+Marx was primarily interested in the laws of motion of capitalism. That is, his goal was not to predict specific events in the economy or to inform economic policy. He was interested in the most basic features of the capitalist system and what implications these have for its long-run evolution. His assumption, which was based on the theory of history that him and Engels had formulated in their youth, was that capitalism was doomed to collapse under the weight of its own contradictions and give way to communism. And his specific analysis of capitalism, based on elements such as the general law of capitalist accumulation and the declining rate of profit, fits his previous insights nicely.
+
+What I want to stress by focusing on 'the marxist question', however, is not the content of his answer, however convincing or appealing it might be. What I find particularly transgressive is his challenge to the assumption that our economic system is homeostatic, or rather to the complete lack of attention that we nowadays pay to capitalism's long-term dynamics. Economics focuses on cycles, demand and supply, interest rates or the monetary base as if these were not embedded in human society, and it takes for granted that the basic relationships among these variables will remain constant (even if changing in magnitude). Marx pushes us to look beyond this assumption to try to understand where the cycle of capital is taking us as a society, and given the relentless march towards environmental catastrophe and human suffering in which we currently find ourselves this task has become more necessary than ever. Even if we completely dismiss Marx's answer, we cannot allow ourselves to ignore his question.
