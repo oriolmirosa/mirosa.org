@@ -1,6 +1,6 @@
 +++
 date = "2014-11-22T18:02:56-06:00"
-draft = true
+draft = false
 title = "Maps in R"
 noread = true
 nopaging = true
