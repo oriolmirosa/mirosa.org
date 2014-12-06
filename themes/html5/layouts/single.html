@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	{{ template "theme/parts/head.html" . }}
+	<body>
+		{{ template "theme/parts/header.html" . }}
+		{{ template "theme/parts/nav.html" . }}
+		<main>
+			<header>
+				<h1>{{ .Title }}</h1>
+			</header>
+			{{ .TableOfContents }}
+			<article>
+				{{ .Content }}
+			</article>
+			<footer>
+				<p><span id="footer-copyright">{{ .Params.copyright }}</span><span id="footer-license">{{ .Params.license }}</span></p>
+			</footer>
+		</main>
+		{{ template "theme/parts/footer.html" . }}
+	</body>
+</html>
