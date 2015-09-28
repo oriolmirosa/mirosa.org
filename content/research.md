@@ -17,8 +17,6 @@ Thanks to the Social Science Research Council's International Dissertation Resea
 
 Here are some materials related to my work on water:
 
-* My PhD dissertation: [The Global Water Regime: Water's Transformation from Right to Commodity in South Africa and Bolivia](/files/dissertation.pdf)
-
 * [Human Right to Water: Contemporary Challenges and Contours of a Global Debate](/files/mirosa-harris-2012.pdf). Paper published in the academic journal Antipode (co-authored with Leila M. Harris)
 
 * [Water Regimes: The International Dimension of Water and its Role in the Global Economy](/files/water-regimes.pdf). Unpublished paper on the evolution of water policy at the global level
