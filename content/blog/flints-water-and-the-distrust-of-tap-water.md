@@ -4,7 +4,7 @@ date = "2016-01-25T18:41:20-06:00"
 nopaging = true
 noread = true
 notoc = true
-title = "Flint's Water and the Distrust of Tap Water"
+title = "Flint's Tragedy and the Distrust of Tap Water"
 blog = ["post"]
 
 +++
