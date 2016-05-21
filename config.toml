@@ -28,6 +28,11 @@ pygmentsstyle = "friendly"
     url = "https://www.mirosa.org/files/cv.pdf"
     weight = 100
 [[menu.social]]
+    pre = "<i class='fa fa-github'></i>"
+    url = "https://github.com/oriolmirosa"
+    identifier = "github"
+    weight = 50
+[[menu.social]]
 	pre = "<i class='fa fa-linkedin'></i>"
     url = "http://www.linkedin.com/pub/oriol-mirosa/a2/238/377"
     identifier = "linkedin"
