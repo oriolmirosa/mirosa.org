@@ -16,15 +16,15 @@ Sociology and Global Studies
 """
 [[menu.main]]
     name = "Blog"
-    url = "/blog"
+    url = "/blog/"
     weight = 25
 [[menu.main]]
     name = "Research"
-    url = "/research"
+    url = "/research/"
     weight = 50
 [[menu.main]]
     name = "Teaching"
-    url = "/teaching"
+    url = "/teaching/"
     weight = 75
 [[menu.main]]
     name = "CV"
