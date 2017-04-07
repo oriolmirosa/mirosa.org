@@ -10,7 +10,10 @@ pygmentsstyle = "friendly"
    blo = "blog"
 [params]
 	sidebartitle = "Oriol Mirosa"
-	sidebartagline = "University of Wisconsin-Milwaukee Sociology and Global Studies"
+	sidebartagline = """
+University of Wisconsin-Milwaukee<br/>
+Sociology and Global Studies
+"""
 [[menu.main]]
     name = "Blog"
     url = "/blog"
@@ -47,4 +50,3 @@ pygmentsstyle = "friendly"
     url = "http://facebook.com/oriolmirosa"
     identifier = "facebook"
     weight = 100
-

@@ -3,7 +3,7 @@
     {{ partial "sidebarheader.html" . }}
 
     {{ if .Site.Params.sidebartitle }}<h1 class="brand-title"><a href="{{ .Site.BaseURL }}">{{ .Site.Params.sidebartitle }}</a></h1>{{ end }}
-    {{ if .Site.Params.sidebartagline }}<h2 class="brand-tagline">{{ .Site.Params.sidebartagline }}</h2>{{ end }}
+    {{ if .Site.Params.sidebartagline }}<h2 class="brand-tagline">{{ .Site.Params.sidebartagline | markdownify }}</h2>{{ end }}
 
 	<nav class="nav">
       <ul class="nav-list">
@@ -21,7 +21,7 @@
         <a href="{{ .URL }}" target="_blank">{{ .Pre }}</a>
         {{ end }}
       {{ end }}
-      
+
     </div>
     {{ end }}
 
