@@ -11,7 +11,7 @@ My research interests focus on global and transnational sociology, environmental
 
 These are my published papers:
 
-[Gordon Gauchat, Timothy O'Brien and Oriol Mirosa. 2017. "The Legitimacy of Environmental Scientists in the Public Sphere." *Climatic Change* (Online First).](/files/gauchat-o'brien-mirosa-2017.pdf)
+[Gordon Gauchat, Timothy O'Brien and Oriol Mirosa. 2017. "The Legitimacy of Environmental Scientists in the Public Sphere." *Climatic Change* (Online First).](https://link.springer.com/article/10.1007/s10584-017-2015-z) (please email me if you want a pdf copy)
 
 [Oriol Mirosa. 2015. "Water Affordability in the United States: An Initial Exploration and an Agenda for Research." *Sociological Imagination* 51(2):35-67.](/files/mirosa-2015.pdf)
 
