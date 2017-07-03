@@ -11,9 +11,10 @@ My research interests focus on global and transnational sociology, environmental
 
 These are my published papers:
 
+[Gordon Gauchat, Timothy O'Brien and Oriol Mirosa. 2017. "The Legitimacy of Environmental Scientists in the Public Sphere." *Climatic Change* (Online First).](/files/gauchat-o'brien-mirosa-2017.pdf)
+
 [Oriol Mirosa. 2015. "Water Affordability in the United States: An Initial Exploration and an Agenda for Research." *Sociological Imagination* 51(2):35-67.](/files/mirosa-2015.pdf)
 
 [Oriol Mirosa and Leila Harris. 2012. "Human Right to Water: Contemporary Challenges and Contours of a Global Debate." *Antipode* 44(3):932-949.](/files/mirosa-harris-2012.pdf)
 
 [Lyla Mehta with Oriol Mirosa. 2004. "Financing Water for All: Behind the Border Policy Convergence in Water Management." IDS Working Paper 233. Brighton, UK: Institute of Development Studies.](/files/mehta-mirosa-2004.pdf)
-
