@@ -1,4 +1,4 @@
-baseurl = "http://www.mirosa.org/"
+baseurl = "https://oriolmirosa.com/"
 languageCode = "en-us"
 title = "Oriol Mirosa"
 disqusShortname = "oriolmirosa"
@@ -28,7 +28,7 @@ Sociology and Global Studies
     weight = 75
 [[menu.main]]
     name = "CV"
-    url = "https://www.mirosa.org/files/cv.pdf"
+    url = "https://oriolmirosa.com/files/cv.pdf"
     weight = 100
 [[menu.social]]
     pre = "<i class='fa fa-github'></i>"
@@ -37,7 +37,7 @@ Sociology and Global Studies
     weight = 50
 [[menu.social]]
 	pre = "<i class='fa fa-linkedin'></i>"
-    url = "http://www.linkedin.com/pub/oriol-mirosa/a2/238/377"
+    url = "https://www.linkedin.com/in/oriolmirosa/"
     identifier = "linkedin"
     weight = 50
 [[menu.social]]
